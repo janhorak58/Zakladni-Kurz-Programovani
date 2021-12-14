@@ -1,1 +1,2 @@
-# Základni Kurz Programování
+# Základní Kurz Programování
+
