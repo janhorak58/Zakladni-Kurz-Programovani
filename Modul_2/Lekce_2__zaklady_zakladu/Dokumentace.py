@@ -19,7 +19,6 @@ x = 1
 # Například Když chci vytisknout hodnotu dříve deklarované proměnné x udělám to takto:
 print(x)
 
-
 # Co když chceme ale vytisknout nějaký text?
 # I to je možné a je to velmi jednoduché...
 # Do Závorek napíšeme text, který chceme, ale musíme ho vložit do uvozovek "Text" - Takto:
